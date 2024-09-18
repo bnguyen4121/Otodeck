@@ -50,11 +50,6 @@ This is a simple DJ application built using the JUCE framework. It features two 
 6. **Managing the Playlist**:  
    The playlist allows you to load multiple audio files at once. You can assign tracks from the playlist to either deck by clicking the "Load Left" or "Load Right" button next to the track in the playlist. You can also search for tracks using the search bar at the top of the playlist.
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Built using the [JUCE](https://juce.com/) framework.
