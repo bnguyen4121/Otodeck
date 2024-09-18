@@ -25,8 +25,8 @@ This is a simple DJ application built using the JUCE framework. It features two 
 - **Customizable Look and Feel**:  
   The application’s user interface has been designed with a modern look and feel, featuring custom button designs, color-coded waveforms, and intuitive sliders. The colors and layout provide a professional and sleek user experience.
 
-## Screenshots
-*(Add screenshots of your DJ application here to showcase its UI)*
+## Video Demo
+[!DJ Application Demo](https://img.youtube.com/vi/zZxm67LiFyk/0.jpg)](https://www.youtube.com/watch?v=zZxm67LiFyk)
 
 ## Usage
 
